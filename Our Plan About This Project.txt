@@ -1,0 +1,6 @@
+We are still planning our project's details. We are having a
+hard time on deciding which method we should use to transmit 
+our signals between the gateway(wifi or another device). 
+We only used vikipedia and youtube so far. Wifi seems better 
+but we are not done yet about our research. We plan to make a 
+website for controlling the plugs.
