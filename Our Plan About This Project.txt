@@ -1,6 +1,5 @@
-We are still planning our project's details. We are having a
-hard time on deciding which method we should use to transmit 
-our signals between the gateway(wifi or another device). 
-We only used vikipedia and youtube so far. Wifi seems better 
-but we are not done yet about our research. We plan to make a 
-website for controlling the plugs.
+We are still planning our project's details. 
+We decided to use to transmit our signals between the gateway with wifi.
+We are planning to use a device for showing which device spends how much electricity. 
+We are also plannig to use humidiometer and thermometer to show home's damp & heat
+We will make a website for managing smart home's plugs.
